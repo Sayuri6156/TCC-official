@@ -1,0 +1,23 @@
+MULHERES EM REDE — ATUALIZAÇÃO DE GUIA E APOIO
+
+Esta versão NÃO modifica a seção Vagas e Oportunidades.
+A alteração depende apenas de DOIS arquivos no repositório GitHub Sayuri6156/TCC:
+
+1. Substitua o index.html existente pelo index.html deste pacote.
+2. Adicione melhorias.js na RAIZ do repositório, ao lado de app.js.
+3. Preserve os arquivos app.js, style.css e a pasta assets originais, SEM alterações.
+4. Faça commit na branch main e abra o site:
+   https://sayuri6156.github.io/TCC/#guia
+   https://sayuri6156.github.io/TCC/#apoio
+
+O arquivo melhorias.js substitui em memória apenas as funções de construção das duas seções.
+A função vacancies() e os dados das vagas do app.js não são modificados.
+
+O conteúdo de 'Apoio às Mulheres' prioriza concat(Gurias), MFP e SWE UFPR;
+mantém RedAME e Meninas e Mulheres nas Ciências; outras iniciativas
+passam para uma área expansível para deixar a página mais leve.
+
+Aviso: não foi confirmada inscrição aberta em novembro/2026 para os
+projetos listados. Os links levam aos canais oficiais e páginas de editais.
+
+Fonte de pesquisa principal: páginas oficiais da UFPR, CNPq e MFP.
